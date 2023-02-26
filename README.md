@@ -1,6 +1,6 @@
 # Тесты к курсу «Парадигмы программирования»
 
-[Условия домашних заданий](https://www.kgeorgiy.info/courses/paradigms/homeworks.html)
+[Условия домашних заданий](https://web.archive.org/web/20211026215006/http://www.kgeorgiy.info/courses/paradigms/homeworks.html)
 
 
 ## Домашнее задание 14. Дерево поиска на Prolog
